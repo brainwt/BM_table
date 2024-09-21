@@ -1,5 +1,5 @@
 # B-***Cat***
-**B**enchmarking ***Cat***egories in South Korea
+Building energy **B**enchmarking ***Cat***egories in South Korea
 
 ```
 (230713) 드래프트 버전입니다. 23년 말 또는 24년 초 공식 업데이트가 있을 예정입니다.
